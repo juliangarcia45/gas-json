@@ -1,9 +1,9 @@
 {
+  "gasoducto_id": 1,
   "type": "GeometryCollection",
   "geometries": [
     {
       "type": "Polygon",
-      "gasoducto_id": 1,
       "coordinates": [
         [
           [
