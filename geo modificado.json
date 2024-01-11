@@ -3,6 +3,7 @@
   "geometries": [
     {
       "type": "Polygon",
+      "gasoducto_id": 1,
       "coordinates": [
         [
           [
@@ -50,8 +51,7 @@
             -45.92775863510946
           ]
         ]
-      ],
-      "gasoducto_id": 1
+      ]
     },
     {
       "type": "Polygon",
