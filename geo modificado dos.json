@@ -51,7 +51,7 @@
           ]
         ]
       ],
-      "gasoducto_id": 1
+      "gasoducto_id": "1"
     },
     {
       "type": "Polygon",
